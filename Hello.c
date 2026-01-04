@@ -2,6 +2,6 @@
 
 int main()
 {
-printf("Panshul");
+printf("Divya and Panshul");
 return 0;
 }
