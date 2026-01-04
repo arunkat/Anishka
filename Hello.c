@@ -2,6 +2,6 @@
 
 int main()
 {
-printf("Divya and Panshul");
+printf("Panshul and Anishka");
 return 0;
 }
